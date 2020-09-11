@@ -18,7 +18,19 @@ It is a mobile application to track the COVID-19 Cases in different states & uni
 ## Installation
 Clone it in your device and use suitable IDE (Visual Studio Code, Android Studio),Run using physical device or emulator.
 
-## Usage
+## Insight
+
+The App has a modern neumorphic ui design.
+
+Using Animated Pie Chart, the app showcases :
+* Confirmed
+* Active
+* Recovered
+* Fatalities
+
+
+Due to COVID-19 in selected State or union Territory.
+
 
 
 
