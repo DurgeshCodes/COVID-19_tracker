@@ -1,16 +1,15 @@
-# covid19_tracker
+# COVID-19 Tracker
 
-A new Flutter project.
+It is a mobile application to track the COVID-19 Cases in different states & union territories of INDIA.It is made using cross platform development kit [Flutter](https://flutter.dev/).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+Clone it in your device and use suitable IDE (Visual Studio Code, Android Studio),Run using physical device or emulator.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Usage
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
